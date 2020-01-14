@@ -1,2 +1,2 @@
 # blockchain-apps
-smoe idea about building my own blockchain program
+smoe ideas about building my own blockchain program
